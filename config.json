@@ -1,0 +1,12 @@
+{
+    "maxNoiseValue": 72,
+    "minNoiseValue": 1,
+    "scaleSize": 0.01,
+    "octaveWeight": 1.6,
+    "passes": 4,
+    "width": 2048,
+    "height": 2048,
+    "addImageData": false,
+    "useCustomSeed": false,
+    "customSeed": 0
+}
